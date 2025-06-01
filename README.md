@@ -24,6 +24,8 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 
 - **BSc Computer Science**, London South Bank University
 - **HND in Digital Technologies**, Global Banking School
+- **Data Science Professional Certificate**, by IMB (In Progress)
+- **Machine	Learning	Specialization**, Stanford	University & DeepLearning.AI
 - **Online Data Science Bootcamps**, HyperionDev
 
 ## 🏢 Professional Experience
