@@ -15,7 +15,7 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 ## 🛠 Skills
 
 - **Languages & Libraries**: Python
-- **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn & Scikit-learn
+- **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn & TensorFlow
 - **Data Visualization**: Power BI, Tableau
 - **Database Management**: SQL, Database Design & Development
 
@@ -23,7 +23,7 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 
 - **BSc Computer Science**, London South Bank University
 - **HND in Digital Technologies**, Global Banking School
-- **Data Science Professional Certificate**, by IMB (In Progress)
+- **Data Science Professional Certificate**, IBM (In Progress)
 - **Machine	Learning	Specialization**, Stanford	University & DeepLearning.AI
 - **Online Data Science Bootcamps**, HyperionDev
 
