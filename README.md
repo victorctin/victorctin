@@ -18,7 +18,6 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 - **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn & Scikit-learn
 - **Data Visualization**: Power BI, Tableau
 - **Database Management**: SQL, Database Design & Development
-- **Business Intelligence**: Leveraging BI tools to inform decision-making
 
 ## 🎓 Education
 
