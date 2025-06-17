@@ -40,7 +40,7 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/victorctin/)
-- 📧 victorctin@gmail.com
+- 📧 
 
 ---
 
