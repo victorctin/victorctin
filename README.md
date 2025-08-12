@@ -29,7 +29,7 @@ I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With 
 
 ## 🏢 Professional Experience
 
-- **IT Manager at Uniform** (Sep 2010 - Dec 2023): Managed all aspects of the company's IT infrastructure, enhancing processes, and ensuring data security.
+- **IT Analyst at Uniform** (Sep 2010 - Dec 2023): Managed all aspects of the company's IT infrastructure, enhancing processes, and ensuring data security.
 
 ## 📚 I'm Interested In
 
