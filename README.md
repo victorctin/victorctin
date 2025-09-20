@@ -1,7 +1,7 @@
 # Welcome to Victor Constantin Pavel's GitHub Profile 👋
 
 ## 🌟 About Me
-I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With a proven track record in driving digital transformation and managing innovative technology teams, I'm passionate about leveraging data to solve complex problems and enhance operational efficiency. My background includes an HND in Digital Technologies and extensive learning through Online Data Science Bootcamps and Computer Science degree (summer 2025) with A Machine Learning Approach dissertation!
+I'm Victor, a seasoned **Data Scientist** based in London, United Kingdom. With a proven track record in driving digital transformation and managing innovative technology teams, I'm passionate about leveraging data to solve complex problems and enhance operational efficiency. My background includes an HND in Digital Technologies and extensive learning through Online Data Science Bootcamps and Computer Science degree  with A Machine Learning Approach dissertation!
 
 ### 📈 What I Do
 
