@@ -33,7 +33,7 @@ I'm Victor, a seasoned **Data Analytics** based in London, United Kingdom. With 
 
 ## 📚 I'm Interested In
 
-- Exploring the latest trends in data Analyttics, Big Data, Data Science & AI/ML.
+- Exploring the latest trends in Data Analytics, Big Data, Data Science & AI/ML.
 - Collaborating on open-source projects related to data science and analytics.
 - Continuous learning through professional development opportunities.
 
