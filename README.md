@@ -25,15 +25,15 @@ I'm Victor, a seasoned **Data Analytics** based in London, United Kingdom. With 
 - **HND in Digital Technologies**, Global Banking School
 - **Data Science Professional Certificate**, IBM 
 - **Machine	Learning	Specialization**, Stanford	University & DeepLearning.AI
-- **Online Data Science Bootcamps**, HyperionDev
+- **Data Analytics Bootcamp**, Think Employment Ltd
 
 ## 🏢 Professional Experience
 
-- **IT Analyst at Uniform** (Sep 2010 - Dec 2023): Managed all aspects of the company's IT infrastructure, enhancing processes, and ensuring data security.
+- **IT & Data Operations at Uniform** (Sep 2010 - Dec 2023): Managed all aspects of the company's IT infrastructure, enhancing processes, and ensuring data security.
 
 ## 📚 I'm Interested In
 
-- Exploring the latest trends in Big Data, Data Science & AI/ML.
+- Exploring the latest trends in data Analyttics, Big Data, Data Science & AI/ML.
 - Collaborating on open-source projects related to data science and analytics.
 - Continuous learning through professional development opportunities.
 
